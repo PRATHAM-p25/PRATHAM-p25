@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRATHAM P</h1>
 <h3 align="center">An Enthusiastic MERN Stack Developer from India 🇮🇳</h3>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/PRATHAM-p25)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/PRATHAM-p25) 
 
 - 💬 Ask me about **react, nodejs, express , mongodb**
 
