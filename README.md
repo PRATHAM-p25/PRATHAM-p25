@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/PRATHAM-p25) 
 
-- 💬 Ask me about **react, nodejs, express , mongodb**
+- 💬 Ask me about **reactjs, nodejs, expressjs, mongodb**
 
 - 📫 Reach out to me at pratham.25102003@gmail.com
 
