@@ -7,12 +7,10 @@
 
 - 📫 Reach out to me at pratham.25102003@gmail.com
 
-<div align="center" style="background-color: #1e293b; padding: 10px; border-radius: 10px;">
-  <h3 style="color: #38bdf8; font-style: italic; margin: 0;">
-    "Engineering isn't just about solving problems; it's about turning imagination into innovation."
-  </h3>
-  <p style="color: #f472b6; font-weight: bold; margin: 5px 0 0;">- Alan Turing</p>
+<div align="center">
+    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
