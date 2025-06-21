@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me at pratham.25102003@gmail.com
 
-<div align="center">
+<div align="center"> 
     <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
