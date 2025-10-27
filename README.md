@@ -38,6 +38,9 @@
 ### Git Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRATHAM-p25&show_icons=true&theme=white) 
 
+## Git Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
 ### Most Used Languages:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM-p25&layout=compact&theme=white)
 
