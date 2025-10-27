@@ -36,7 +36,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 ### Git Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRATHAM-p25&show_icons=true&theme=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRATHAM-p25&show_icons=true&theme=white) 
 
 ### Most Used Languages:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM-p25&layout=compact&theme=white)
