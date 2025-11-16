@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/pratham25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham p" height="30" width="40" /></a>
 <a href="https://instagram.com/pratham_2528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham_2528" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/profile/pratham_25102003" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/HackerRank_Icon-1000x1000.png" alt="HackerRank Logo" height="30" width="40" />
+    <img align="center" src=https://img.icons8.com/?size=100&id=bcdiBt8pFXfZ&format=png&color=000000" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
 
